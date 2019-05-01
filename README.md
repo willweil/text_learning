@@ -1,2 +1,2 @@
-# text_mining
-Text mining learning materials. Most are from https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial.
+# Text mining with NLTK
+Text mining learning materials. Mostly learnt at https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial.
